@@ -45,8 +45,10 @@ If you have questions or concerns about these issues please feel free to message
 ## Reporting
 
 If you are being harassed by a member of our community, notice that someone else is being harassed, or have any other concerns, please contact the administrators via [INSERT APPROPRIATE CONTACT METHOD HERE]. If the person who is harassing you is on the admin team, they will not be involved in handling or resolving the incident.
+(_TODO: Slack channel, form or email address?_)
 
-The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [EMAIL ADDRESS HERE].
+The admin team will respond to any complaint as promptly as possible we can. If you do not get a timely response (for example, if no admins are currently online) then please put your personal safety and well-being first, and consider logging out and/or contacting the admins by email at [mods@ontheside.network](mailto:mods@ontheside.network).
+(_TODO: Setup email address forwarder/group_)
 
 This code of conduct applies to our community's spaces, but if you are being harassed by a member of our community outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by our members, especially the administrators, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The abuse team reserves the right to exclude people from the community based on their past behavior, including behavior outside of our spaces and behavior towards people who are not in this community.
 
@@ -64,8 +66,8 @@ Participants asked to stop any harassing behavior are expected to comply immedia
 
 ## Acknowledgements
 
-This Code of Conduct is adapted from the Community Covenant (http://community-covenant.net), version 1.0, available at http://community-covenant.net/version/1/0/. The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the Contributor Covenant (http://contributor-covenant.org/) and the LGBTQ in Tech community code of conduct (http://lgbtq.technology/coc.html).
+This Code of Conduct is adapted from the [Community Covenant, version 1.0](http://community-covenant.net/version/1/0/). The Community Covenant is an open source effort and is built on codes of conduct that came before it, including the [Contributor Covenant](http://contributor-covenant.org/) and the [LGBTQ in Tech community code of conduct](http://lgbtq.technology/coc.html).
 
 ## License
 
-Community Covenant by Coraline Ada Ehmke is licensed under a Creative Commons Attribution 4.0 International License (http://creativecommons.org/licenses/by/4.0/). Based on a work at http://community-covenant.net/.
+Community Covenant by Coraline Ada Ehmke is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). Based on a work at http://community-covenant.net/.
