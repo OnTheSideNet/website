@@ -6,7 +6,7 @@ A Slack community for sharing progress on your side projects to encourage suppor
 
 ## Who?
 
-Founded by [Si](https://sijobling.com/) and [Ben](https://twitter.com/brussels), the community has grown since Summer 2019 with nearly 30 members now contributing.
+Founded by [Si](https://sijobling.com/) and [Ben](https://twitter.com/brussels) in July 2019, the community has grown with over 60 members now contributing.
 
 There's naturally some who are more active than others but we're all a friendly bunch, prepared to help and encourage each other to share progress on side projects, along with a healthy balance of fun and laughter along the way.
 
