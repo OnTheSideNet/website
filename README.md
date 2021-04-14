@@ -1,5 +1,3 @@
-layout: page
-title: "On The Side"
 
 # On The Side 
 
