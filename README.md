@@ -1,3 +1,6 @@
+layout: page
+title: "On The Side"
+
 # On The Side 
 
 Close-knit community of creatives who support each other's side projects in Slack.
