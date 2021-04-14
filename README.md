@@ -3,7 +3,7 @@
 
 Close-knit community of creatives who support each other's side projects in Slack.
 
-[**Join the conversation** - it's free!](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
+[**Join the conversation - it's free!**](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
 
 ## Why?
 
@@ -31,6 +31,8 @@ With regular check-ins, be them `#week-goals` or daily `#standup`, you're holdin
 
 By sharing our own stories and progress, you can learn so much from what others are doing. It could be problem solving, technical or a whole new industry to you.
 
+[**Find out for yourself**](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
+
 ## Who?
 
 Founded by [Si](https://sijobling.com/) and [Ben](https://twitter.com/brussels) in July 2019, the community has grown with **over 100 members** now participating.
@@ -51,3 +53,5 @@ Here are some familiar faces…
 ![Si Jobling](https://ca.slack-edge.com/TKTLNP30D-UKG87FPRQ-1ae22eba176d-128)
 ![Shari Mahuma](https://ca.slack-edge.com/TKTLNP30D-U01477QERC6-69fb66faf05a-128)
 ![Stef Lewandowski](https://ca.slack-edge.com/TKTLNP30D-U01SQ76MHTJ-f78ed5441e08-128)
+
+[**Come say hello**](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
