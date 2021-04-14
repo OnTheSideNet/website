@@ -49,3 +49,5 @@ Here are some familiar faces…
 ![Juan Fernandes](https://ca.slack-edge.com/TKTLNP30D-UTE7UDCSH-ga1780be9a2c-512)
 
 ![Marc Littlemore](https://ca.slack-edge.com/TKTLNP30D-UQ5TDNEFM-g4b0d41741f2-512)
+
+![Shari Mahuma](https://ca.slack-edge.com/TKTLNP30D-U01477QERC6-69fb66faf05a-512)
