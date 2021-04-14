@@ -1,5 +1,5 @@
 
-!(On The Side)[assets/on-the-side-cover.png]
+![On The Side](assets/on-the-side-cover.png)
 
 Close-knit community of creatives who support each other's side projects in Slack.
 
