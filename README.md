@@ -6,27 +6,27 @@ Close-knit community of creatives who support each other's side projects in Slac
 
 ## Why?
 
-### Encouragement  
+### Encouragement 🙌
 
 Many people struggle to have the motivation on side projects - we're here to help you get over the first hump and support you along the way.
 
-### Bounce Ideas
+### Bounce Ideas 💭
 
 Whether it's a simple concept that needs thrashing out or a problem that you need help with, there are plenty of people from different disciplines to give you useful ideas.
 
-### Demonstrate
+### Demonstrate 📽
 
 Share your work with fellow creatives to show off what you've made and feel the satisfaction of "_I made that_"!
 
-### Feedback Loop
+### Feedback Loop 🔄
 
 Whether it's positive or constructive, we all benefit from feedback. By sharing your work with fellow side project creatives, it's a safer place to know what works and needs improvement.
 
-### Accountability
+### Accountability 👌
 
 With regular check-ins, be them `#week-goals` or daily `#standup`, you're holding yourself accountable on your commitments to help drive delivery.
 
-### Learn
+### Learn 🧑‍🏫
 
 By sharing our own stories and progress, you can learn so much from what others are doing. It could be problem solving, technical or a whole new industry to you.
 
