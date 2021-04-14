@@ -42,3 +42,10 @@ Here are some familiar faces…
 
 ![Mike Street](https://ca.slack-edge.com/TKTLNP30D-U010WQXFR2P-gb4ee0784664-512)
 
+![Dom Hodgson](https://ca.slack-edge.com/TKTLNP30D-UM41J7L5D-gf9b9d2edf4d-512)
+
+![Sam Hardacre](https://ca.slack-edge.com/TKTLNP30D-ULB6A9CP7-gf372b3f6c7c-512)
+
+![Juan Fernandes](https://ca.slack-edge.com/TKTLNP30D-UTE7UDCSH-ga1780be9a2c-512)
+
+![Marc Littlemore](https://ca.slack-edge.com/TKTLNP30D-UQ5TDNEFM-g4b0d41741f2-512)
