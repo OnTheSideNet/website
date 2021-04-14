@@ -41,6 +41,7 @@ There's naturally some who are more active regular members than others but we're
 
 Here are some familiar faces…
 
+![Ben Russel](https://ca.slack-edge.com/TKTLNP30D-UKVRL8SUW-d1fd779aed7b-128)
 ![Dom Hodgson](https://ca.slack-edge.com/TKTLNP30D-UM41J7L5D-gf9b9d2edf4d-128)
 ![Juan Fernandes](https://ca.slack-edge.com/TKTLNP30D-UTE7UDCSH-ga1780be9a2c-128)
 ![Marc Littlemore](https://ca.slack-edge.com/TKTLNP30D-UQ5TDNEFM-g4b0d41741f2-128)
