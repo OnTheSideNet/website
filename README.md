@@ -19,7 +19,7 @@ Whether it's a simple concept that needs thrashing out or a problem that you nee
 
 Share your work with fellow creatives to show off what you've made and feel the satisfaction of "_I made that_"!
 
-## Feedback Loop 🔄
+### Feedback Loop 🔄
 
 Whether it's positive or constructive, we all benefit from feedback. By sharing your work with fellow side project creatives, it's a safer place to know what works and needs improvement.
 
