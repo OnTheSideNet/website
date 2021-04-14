@@ -40,5 +40,5 @@ Here are some familiar faces…
 
 ![Si Jobling](https://ca.slack-edge.com/TKTLNP30D-UKG87FPRQ-1ae22eba176d-512)
 
-!(Mike Street)[https://ca.slack-edge.com/TKTLNP30D-U010WQXFR2P-gb4ee0784664-512]
+![Mike Street](https://ca.slack-edge.com/TKTLNP30D-U010WQXFR2P-gb4ee0784664-512)
 
