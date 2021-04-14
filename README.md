@@ -39,11 +39,15 @@ There's naturally some who are more active regular members than others but we're
 
 Here are some familiar faces…
 
+![Andy Yates](https://ca.slack-edge.com/TKTLNP30D-UREKW4B4Y-g6461915b9f3-128)
+![Anthony Killeen](https://ca.slack-edge.com/TKTLNP30D-UR56NH7B5-88f0c0202589-128)
 ![Ben Russel](https://ca.slack-edge.com/TKTLNP30D-UKVRL8SUW-d1fd779aed7b-128)
 ![Dom Hodgson](https://ca.slack-edge.com/TKTLNP30D-UM41J7L5D-gf9b9d2edf4d-128)
+![Jesse Payne](https://ca.slack-edge.com/TKTLNP30D-U01MSV090EB-50829e1242fd-128)
 ![Juan Fernandes](https://ca.slack-edge.com/TKTLNP30D-UTE7UDCSH-ga1780be9a2c-128)
 ![Marc Littlemore](https://ca.slack-edge.com/TKTLNP30D-UQ5TDNEFM-g4b0d41741f2-128)
 ![Mike Street](https://ca.slack-edge.com/TKTLNP30D-U010WQXFR2P-gb4ee0784664-128)
 ![Sam Hardacre](https://ca.slack-edge.com/TKTLNP30D-ULB6A9CP7-gf372b3f6c7c-128)
 ![Si Jobling](https://ca.slack-edge.com/TKTLNP30D-UKG87FPRQ-1ae22eba176d-128)
 ![Shari Mahuma](https://ca.slack-edge.com/TKTLNP30D-U01477QERC6-69fb66faf05a-128)
+![Stef Lewandowski](https://ca.slack-edge.com/TKTLNP30D-U01SQ76MHTJ-f78ed5441e08-128)
