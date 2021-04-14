@@ -1,8 +1,8 @@
 # On The Side 
 
-A Slack community for sharing progress on your side projects to encourage support and motivation.
+Close-knit community of creatives who support each other's side projects in Slack.
 
-[**Join in** - it's *free*!](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
+[**Join the conversation** - it's *free*!](https://join.slack.com/t/onthesideworkspace/shared_invite/enQtNzA0MTcyOTk4MzA2LWEzNjcxODIzM2I3ZjA0MWQ2YTI4YzcxZGMxNTkwNGI5ZGRkYWZmYWVmOTdmOTc3NmIyZjRmN2RmMjk1NTZlZGQ)
 
 ## Who?
 
